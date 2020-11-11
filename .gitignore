@@ -6,3 +6,5 @@
 .idea/vcs.xml
 .idea/workspace.xml
 .ipynb_checkpoints/space_conjuncture_activity-checkpoint.ipynb
+.DS_Store
+.ipynb_checkpoints/orbitClassifierV2-checkpoint.ipynb
