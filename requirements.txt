@@ -1,5 +1,16 @@
 pandas==1.0.5
 pandas_profiling==2.8.0
-scikit-learn==0.23.0
+scikit-learn==0.23.1
 seaborn==0.10.0
 pip==20.0.2
+xgboost==1.2.1
+plotly==4.12.0
+joblib
+matplotlib
+numpy
+poliastro
+pyarrow
+sklearn
+spacetrack
+TLE-tools
+tqdm
